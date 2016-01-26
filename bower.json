@@ -3,7 +3,6 @@
   "main": "dist/browser.js",
   "license": "./LICENSE",
   "ignore": [
-    "lib/*",
     "!dist",
     "!dist/browser.js"
   ],
